@@ -1,6 +1,6 @@
 <h1 align="center">Hi!! I'am Lucas Souza Santos, Love for programming 🧡.</h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zLuksz&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zLuksz&data=followers,repositories,stars,commits&theme=carbon)
 
 #### Formations 🎓:
 #### • Database Administrator;
