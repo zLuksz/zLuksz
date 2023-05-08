@@ -1,12 +1,12 @@
-<h1 align="center">Olá!! Eu sou o Lucas Souza Santos, Apaixonado Por Programação 🧡.</h1>
+<h1 align="center">Hi!! I'am Lucas Souza Santos, Love for programming 🧡.</h1>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=zLuksz&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
 
-#### Formações 🎓:
-#### • Administrador De Banco De Dados;
-#### • Logica De Programação;
-#### • Desenvolvedor Web (Cursando);
-#### • Programador De Sistemas (Cursando);
+#### Formations 🎓:
+#### • Database Administrator;
+#### • Programming logic;
+#### • Web Developer (Studying);
+#### • System Programmer (Studying);
 
 # 💻 Tech Stack:
 
@@ -16,7 +16,7 @@
 <img src="https://camo.githubusercontent.com/d613e7883a73b1526019cd762237f7a2a14ae65fbcace33f1edeb187c55644ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534267374796c653d666f722d7468652d6261646765" alt="AquaSec" data-canonical-src="https://camo.githubusercontent.com/d613e7883a73b1526019cd762237f7a2a14ae65fbcace33f1edeb187c55644ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f6c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534267374796c653d666f722d7468652d6261646765?style=for-the-badge&amp;logo=aqua&amp;logoColor=#0018A8" style="max-width: 100%;"></a>
 </p>
 
-# 📊 Status GitHub:
+# 📊 GitHub Status:
 ![](https://github-readme-stats.vercel.app/api?username=zLuksz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zLuksz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zLuksz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -24,7 +24,7 @@
 
 ##
 
-# 👦 Social Midia:
+# 👦 Social Media:
 <div>
   <a href="https://www.instagram.com/lukszofficial/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/lucas-souza-santos-aba47b267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
