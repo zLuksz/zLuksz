@@ -6,7 +6,7 @@
 <h2>Formations 🎓:</h2>• Database Administrator;<br> • Programming logic;<br> • Web Developer (Studying);<br> • System Programmer (Studying);
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/lucassouza9604) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lukszofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-souza-santos-aba47b267/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/lucassouza9604) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lukszofficial/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-souza-santos-aba47b267/) 
 
 <h1>💻 Tech Stack:</h1>
 
