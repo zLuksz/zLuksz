@@ -50,8 +50,7 @@ Sou um entusiasta da programação com experiência em diversas áreas, desde ad
 
 ---
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=zLuksz&icon=3&color=12" target="_blank">
-    <img src="https://visitcount.itsvg.in/api?id=zLuksz&icon=3&color=12" alt="Visitantes" />
-  </a>
-</p>
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/<github-zLuksz>"/>  
+    </div>
